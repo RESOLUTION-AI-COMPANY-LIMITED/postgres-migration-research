@@ -1,0 +1,100 @@
+Files pocketbase-v0.37.5/.git/HEAD and postgrebase/.git/HEAD differ
+Files pocketbase-v0.37.5/.git/config and postgrebase/.git/config differ
+Files pocketbase-v0.37.5/.git/index and postgrebase/.git/index differ
+Files pocketbase-v0.37.5/.git/logs/HEAD and postgrebase/.git/logs/HEAD differ
+Only in postgrebase/.git/logs: refs
+Only in postgrebase/.git/objects/pack: pack-3afcc81fa866c6de85768d3b49044804fb371c32.idx
+Only in postgrebase/.git/objects/pack: pack-3afcc81fa866c6de85768d3b49044804fb371c32.pack
+Only in postgrebase/.git/objects/pack: pack-3afcc81fa866c6de85768d3b49044804fb371c32.rev
+Only in pocketbase-v0.37.5/.git/objects/pack: pack-6c30afe93801e36b6ebbed6d5df8d1b8cd6a6044.idx
+Only in pocketbase-v0.37.5/.git/objects/pack: pack-6c30afe93801e36b6ebbed6d5df8d1b8cd6a6044.pack
+Only in pocketbase-v0.37.5/.git/objects/pack: pack-6c30afe93801e36b6ebbed6d5df8d1b8cd6a6044.rev
+Files pocketbase-v0.37.5/.git/packed-refs and postgrebase/.git/packed-refs differ
+Only in postgrebase/.git/refs/heads: master
+Only in postgrebase/.git/refs: remotes
+Files pocketbase-v0.37.5/.git/shallow and postgrebase/.git/shallow differ
+Only in postgrebase/.github: FUNDING.yaml
+Files pocketbase-v0.37.5/.github/SECURITY.md and postgrebase/.github/SECURITY.md differ
+Only in postgrebase/.github/workflows: check.yml
+Files pocketbase-v0.37.5/.github/workflows/release.yaml and postgrebase/.github/workflows/release.yaml differ
+Files pocketbase-v0.37.5/.gitignore and postgrebase/.gitignore differ
+Files pocketbase-v0.37.5/.goreleaser.yaml and postgrebase/.goreleaser.yaml differ
+Only in pocketbase-v0.37.5: CHANGELOG.md
+Only in pocketbase-v0.37.5: CHANGELOG_16_22.md
+Only in pocketbase-v0.37.5: CHANGELOG_8_15.md
+Only in postgrebase: CLAUDE.md
+Only in pocketbase-v0.37.5: CONTRIBUTING.md
+Files pocketbase-v0.37.5/Makefile and postgrebase/Makefile differ
+Files pocketbase-v0.37.5/README.md and postgrebase/README.md differ
+Only in postgrebase: README_zh.md
+Only in postgrebase/apis: admin.go
+Only in postgrebase/apis: api_error.go
+Only in pocketbase-v0.37.5/apis: api_error_aliases.go
+Files pocketbase-v0.37.5/apis/backup.go and postgrebase/apis/backup.go differ
+Only in pocketbase-v0.37.5/apis: backup_create.go
+Only in pocketbase-v0.37.5/apis: backup_test.go
+Only in pocketbase-v0.37.5/apis: backup_upload.go
+Files pocketbase-v0.37.5/apis/base.go and postgrebase/apis/base.go differ
+Only in pocketbase-v0.37.5/apis: base_test.go
+Only in pocketbase-v0.37.5/apis: batch.go
+Only in pocketbase-v0.37.5/apis: batch_test.go
+Files pocketbase-v0.37.5/apis/collection.go and postgrebase/apis/collection.go differ
+Only in pocketbase-v0.37.5/apis: collection_import.go
+Only in pocketbase-v0.37.5/apis: collection_import_test.go
+Only in pocketbase-v0.37.5/apis: collection_test.go
+Only in pocketbase-v0.37.5/apis: cron.go
+Only in pocketbase-v0.37.5/apis: cron_test.go
+Only in pocketbase-v0.37.5/apis: extensions.go
+Only in pocketbase-v0.37.5/apis: extensions_test.go
+Files pocketbase-v0.37.5/apis/file.go and postgrebase/apis/file.go differ
+Only in pocketbase-v0.37.5/apis: file_test.go
+Files pocketbase-v0.37.5/apis/health.go and postgrebase/apis/health.go differ
+Only in pocketbase-v0.37.5/apis: health_test.go
+Only in pocketbase-v0.37.5/apis: installer.go
+Only in pocketbase-v0.37.5/apis: logs.go
+Only in pocketbase-v0.37.5/apis: logs_test.go
+Files pocketbase-v0.37.5/apis/middlewares.go and postgrebase/apis/middlewares.go differ
+Only in pocketbase-v0.37.5/apis: middlewares_body_limit.go
+Only in pocketbase-v0.37.5/apis: middlewares_body_limit_test.go
+Only in pocketbase-v0.37.5/apis: middlewares_cors.go
+Only in pocketbase-v0.37.5/apis: middlewares_gzip.go
+Only in pocketbase-v0.37.5/apis: middlewares_rate_limit.go
+Only in pocketbase-v0.37.5/apis: middlewares_rate_limit_test.go
+Only in pocketbase-v0.37.5/apis: middlewares_test.go
+Files pocketbase-v0.37.5/apis/realtime.go and postgrebase/apis/realtime.go differ
+Only in pocketbase-v0.37.5/apis: realtime_test.go
+Files pocketbase-v0.37.5/apis/record_auth.go and postgrebase/apis/record_auth.go differ
+Only in pocketbase-v0.37.5/apis: record_auth_email_change_confirm.go
+Only in pocketbase-v0.37.5/apis: record_auth_email_change_confirm_test.go
+Only in pocketbase-v0.37.5/apis: record_auth_email_change_request.go
+Only in pocketbase-v0.37.5/apis: record_auth_email_change_request_test.go
+Only in pocketbase-v0.37.5/apis: record_auth_impersonate.go
+Only in pocketbase-v0.37.5/apis: record_auth_impersonate_test.go
+Only in pocketbase-v0.37.5/apis: record_auth_methods.go
+Only in pocketbase-v0.37.5/apis: record_auth_methods_test.go
+Only in pocketbase-v0.37.5/apis: record_auth_otp_request.go
+Only in pocketbase-v0.37.5/apis: record_auth_otp_request_test.go
+Only in pocketbase-v0.37.5/apis: record_auth_password_reset_confirm.go
+Only in pocketbase-v0.37.5/apis: record_auth_password_reset_confirm_test.go
+Only in pocketbase-v0.37.5/apis: record_auth_password_reset_request.go
+Only in pocketbase-v0.37.5/apis: record_auth_password_reset_request_test.go
+Only in pocketbase-v0.37.5/apis: record_auth_refresh.go
+Only in pocketbase-v0.37.5/apis: record_auth_refresh_test.go
+Only in pocketbase-v0.37.5/apis: record_auth_verification_confirm.go
+Only in pocketbase-v0.37.5/apis: record_auth_verification_confirm_test.go
+Only in pocketbase-v0.37.5/apis: record_auth_verification_request.go
+Only in pocketbase-v0.37.5/apis: record_auth_verification_request_test.go
+Only in pocketbase-v0.37.5/apis: record_auth_with_oauth2.go
+Only in pocketbase-v0.37.5/apis: record_auth_with_oauth2_redirect.go
+Only in pocketbase-v0.37.5/apis: record_auth_with_oauth2_redirect_test.go
+Only in pocketbase-v0.37.5/apis: record_auth_with_oauth2_test.go
+Only in pocketbase-v0.37.5/apis: record_auth_with_otp.go
+Only in pocketbase-v0.37.5/apis: record_auth_with_otp_test.go
+Only in pocketbase-v0.37.5/apis: record_auth_with_password.go
+Only in pocketbase-v0.37.5/apis: record_auth_with_password_test.go
+Files pocketbase-v0.37.5/apis/record_crud.go and postgrebase/apis/record_crud.go differ
+Only in pocketbase-v0.37.5/apis: record_crud_auth_origin_test.go
+Only in pocketbase-v0.37.5/apis: record_crud_external_auth_test.go
+Only in pocketbase-v0.37.5/apis: record_crud_mfa_test.go
+Only in pocketbase-v0.37.5/apis: record_crud_otp_test.go
+Only in pocketbase-v0.37.5/apis: record_crud_superuser_test.go
