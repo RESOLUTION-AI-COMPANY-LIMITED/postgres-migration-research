@@ -1,0 +1,57 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Git
+.git/
+
+# Build artifacts (if any Go code is added later)
+/bin/
+/vendor/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test coverage
+*.out
+coverage.txt
+
+# Environment variables
+.env
+.env.local
+
+# Temporary clones (from agent work)
+/tmp/
