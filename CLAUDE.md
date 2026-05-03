@@ -4,11 +4,28 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ---
 
+## ⚠️ CRITICAL: Project Type
+
+**This is a RESEARCH & DOCUMENTATION repository, NOT a working codebase.**
+
+- ❌ NO actual Go code to run/test
+- ❌ NO `go.mod` to build
+- ❌ NO binary to execute
+- ✅ Implementation GUIDES only
+- ✅ Code TEMPLATES only (extracted from postgrebase)
+- ✅ Test PLANS only (not actual tests)
+
+**Purpose**: Planning and preparation for future implementation
+
+---
+
 ## 📋 Tổng quan dự án
 
-Dự án này là **nghiên cứu migration PocketBase v0.37.5 sang PostgreSQL + Redis**, sử dụng phương pháp từ [zhenruyan/postgrebase](https://github.com/zhenruyan/postgrebase).
+Dự án này là **nghiên cứu và document hóa** migration path từ PocketBase v0.37.5 sang PostgreSQL + Redis, dựa trên phân tích [zhenruyan/postgrebase](https://github.com/zhenruyan/postgrebase).
 
 **Triết lý chính**: Minimal Changes (~200 dòng code) để đạt được PostgreSQL/MySQL support.
+
+**Current Status**: Research complete, implementation NOT started.
 
 ---
 

@@ -1,3 +1,16 @@
+# ⚠️ BENCHMARK PLAN - NOT ACTUAL BENCHMARKS
+
+**This is a PLAN for benchmarking, NOT actual benchmark results.**
+
+No benchmarks have been run yet. This document provides:
+- ✅ Benchmark scenarios
+- ✅ Metrics to measure
+- ✅ Expected baselines
+
+**To use this plan**: Run actual benchmarks after implementing PocketBase fork.
+
+---
+
 # Performance Benchmark Plan (AGENT-12)
 
 **Agent**: AGENT-12 - Performance Benchmark Engineer  

@@ -1,3 +1,16 @@
+# ⚠️ TEST PLAN - NOT ACTUAL TESTS
+
+**This is a PLAN for testing, NOT actual test code.**
+
+No tests have been written yet. This document provides:
+- ✅ Test case specifications
+- ✅ Testing strategy
+- ✅ Expected outcomes
+
+**To use this plan**: Write actual tests when implementing PocketBase fork.
+
+---
+
 # Unit Test Plan (AGENT-10)
 
 **Agent**: AGENT-10 - Unit Test Engineer  

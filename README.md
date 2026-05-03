@@ -1,8 +1,22 @@
 # PostgreSQL Migration Research - PocketBase v0.37.5
 
 **Created**: 2026-05-03  
+**Type**: 📋 Research & Documentation Project (NOT working code)  
 **Purpose**: Tài liệu nghiên cứu về cách chuyển đổi PocketBase v0.37.5 sang PostgreSQL + Redis  
 **Reference**: [zhenruyan/postgrebase](https://github.com/zhenruyan/postgrebase)
+
+---
+
+## ⚠️ IMPORTANT NOTICE
+
+**This repository contains DOCUMENTATION ONLY, not working code.**
+
+- ✅ **What you'll find**: Implementation guides, code templates, test plans
+- ❌ **What you won't find**: Working Go application, compiled binary
+
+**To get working code**:
+1. Follow implementation guides in `docs/implementation/`
+2. OR use [postgrebase](https://github.com/zhenruyan/postgrebase) (already implemented)
 
 ---
 

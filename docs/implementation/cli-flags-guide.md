@@ -1,3 +1,16 @@
+# ⚠️ IMPLEMENTATION GUIDE - NOT ACTUAL CODE
+
+**This is a GUIDE on how to implement, NOT working code.**
+
+The actual implementation has NOT been done yet. This document provides:
+- ✅ Step-by-step instructions
+- ✅ Code examples to copy
+- ✅ Testing procedures
+
+**To use this guide**: Follow steps in actual PocketBase fork repository.
+
+---
+
 # CLI Flags Implementation Guide (AGENT-07)
 
 **Agent**: AGENT-07 - CLI Flags Engineer  
